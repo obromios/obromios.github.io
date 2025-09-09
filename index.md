@@ -1,0 +1,10 @@
+---
+layout: default
+title: Philomaths
+permalink: /
+---
+<h1>Philomaths</h1>
+<p>Philomaths owns and operates <a href="https://www.thegolfmentor.com">The Golf Mentor</a> application. This is an Artificial Intelligence Caddy. It can tell you distances to the green using a GPS rangefinder, recommend the right club for a hole, answer any golfing question, and much more. The site also features a <a href="https://www.thegolfmentor.com/club_distance_calculator">golf distance calculator</a>, and is a popular site for information on golf club distances.</p>
+<p>Philomaths carries out mathematical research into golf handicapping, Attitude Heading Reference Systems, Covid-19, and other areas. Philomaths has provided expert witness consultancy to law firms in London, San Francisco, Sydney, and Dallas. The consultancy areas include cellular location technology, the Global Positioning System, and the lower layers of telecommunication systems.</p>
+<p>Philomaths undertakes a range of public service activities including open source software. It added spell checking functionality to the <a href="https://github.com/rspec/rspec-core/commit/cbd6d47051b2050fd8dbd0e3a3751b2364bc3842">rspec gem</a>. This gem has had over one billion <a href="https://rubygems.org/gems/rspec-core/versions/3.9.1">downloads</a>. Philomaths developed a tree speller for the <a href="https://github.com/ruby/did_you_mean/pull/119">Did You Mean gem</a> that can use a structured dictionary. The algorithm provides a halving of the error rate and a ten times increase in speed when working with a structured dictionary. The master branch of the Did You Mean gem provides the facility to apply the structured tree speller to assist in fixing Ruby <a href="https://github.com/ruby/did_you_mean/pull/143">load path errors</a>. We hope in time this will bring a little joy to every ruby developer.</p>
+<p>Philomaths supports the Stack Overflow web site, where our technical <a href="https://stackoverflow.com/users/1299362/obromios">questions and answers</a> have reached over 1.2 million developers around the world.</p>

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }} | {{ site.title }}</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.4.1/cerulean/bootstrap.min.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/site.css">
+</head>
+<body>
+<div class="top_bar">
+<div class="logo"><a href="{{ site.baseurl }}/">Philomaths</a></div>
+<nav>
+<a href="{{ site.baseurl }}/about/">About</a>
+<span> | </span>
+<a href="{{ site.baseurl }}/papers/">Publications</a>
+<span> | </span>
+<a href="{{ site.baseurl }}/legal/">Terms</a>
+<span> | </span>
+<a href="{{ site.baseurl }}/contact-us/">Contact</a>
+</nav>
+</div>
+<main class="container">
+{{ content }}
+</main>
+<footer class="tint">
+<div>&copy; {{ site.time | date: "%Y" }} Philomaths Pty. Limited</div>
+</footer>
+</body>
+</html>

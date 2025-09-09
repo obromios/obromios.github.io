@@ -1,0 +1,11 @@
+title: Philomaths
+description: Philomaths Pty. Limited
+url: https://<your-github-username>.github.io
+baseurl: /philomaths_jeckyll
+markdown: kramdown
+theme: minima
+plugins: []
+paper_links:
+  calibration: https://github.com/philomaths-org/path/to/calibration.pdf
+  adsense: https://github.com/philomaths-org/path/to/adsense.pdf
+  springer: https://link.springer.com/book/10.1007/978-1-4615-1083-1

@@ -1,0 +1,18 @@
+name: Exercise Live Site
+on:
+  workflow_run:
+    workflows: ["Build and Deploy Jekyll"]
+    types: [completed]
+permissions:
+  contents: read
+jobs:
+  test:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.3'
+        bundler-cache: true
+    - run: echo "Set SITE_UNDER_TEST to your Pages URL when wiring tests"

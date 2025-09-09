@@ -1,0 +1,27 @@
+body{display:flex;flex-direction:column;max-width:1200px;padding-top:0;height:100vh;margin:0}
+main{flex:1 0 auto;padding-left:2%;padding-right:2%}
+footer{padding:20px;background-color:lightblue}
+#notice{display:flex;align-items:center;margin-top:10px;padding-left:30px;background-color:lightgreen;min-height:50px}
+em{font-weight:bold}
+div.page{padding:20px}
+.tint{background-color:lightblue}
+.ebm15{margin-bottom:15px}
+.countries_info_right{padding-right:0}
+.countries_graphs{display:flex;flex-direction:row;justify-content:space-between}
+div.top_bar{display:flex;flex-direction:row;justify-content:space-between;align-items:center;background-color:lightblue;min-height:50px;padding-right:30px}
+.logo{padding-left:15px;padding-right:30px;display:flex;align-items:center;justify-content:center}
+.logo a{font-weight:bold}
+.swatch{min-width:30px;max-width:40px;min-height:17px;display:block}
+.blue{background-color:blue}
+.green{background-color:green}
+.orange{background-color:orange}
+.red{background-color:red}
+.country_status{min-width:400px;padding:0 20px 0 0}
+.immunity_reached{background-color:lightyellow;border:3px solid #fff}
+.immunity_low_ci_reached{background-color:#e3efe3;border:3px solid #fff}
+.countries_info{display:flex;flex-direction:row;justify-content:space-between}
+.country_ranking{display:flex;flex-direction:column}
+.countries_ranking_link{margin-bottom:10px}
+@media(max-width:999px){.countries_info{display:flex;flex-direction:column;justify-content:space-between}}
+#bar-horzontal{max-width:600px;border:1px solid #333}
+#bar-horzontal div{color:#fff;padding:10px 0 10px 1px;box-sizing:border-box;font-size:90%}
