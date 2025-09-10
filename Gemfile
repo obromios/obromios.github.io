@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 ruby "3.3.4"
-gem "jekyll", "~> 4.3"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-redirect-from"
 gem "webrick", "~> 1.8"
-gem 'jekyll-redirect-from'
 group :development do
   gem "bundler"
 end
