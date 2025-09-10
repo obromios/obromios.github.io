@@ -4,8 +4,13 @@ url: https://<your-github-username>.github.io
 baseurl: /philomaths_jeckyll
 markdown: kramdown
 theme: minima
-plugins: []
+plugins:
+  - jekyll-redirect-from
 paper_links:
-  calibration: https://github.com/philomaths-org/path/to/calibration.pdf
-  adsense: https://github.com/philomaths-org/path/to/adsense.pdf
+  calibration: https://github.com/philomaths-org/covid-19/raw/master/calibration/calibration.pdf
+  victoria: https://github.com/philomaths-org/covid-19/raw/master/calibration/victoria.pdf
+  adsense: https://github.com/philomaths-org/covid-19/raw/master/adsense/adsense.pdf
+  social_distancing: https://github.com/philomaths-org/covid-19/raw/master/social_distancing/social_distancing.pdf
+  conditional_immunity: https://github.com/philomaths-org/covid-19/raw/master/conditional_immunity/conditional_immunity.pdf
+  free_infected_individuals: https://github.com/philomaths-org/covid-19/raw/master/free_infected_individuals/free_infected_individuals.pdf
   springer: https://link.springer.com/book/10.1007/978-1-4615-1083-1
