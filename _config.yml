@@ -1,8 +1,8 @@
 title: Philomaths
 description: Philomaths Pty. Limited
 url: https://obromios.github.io
-# baseurl: ""
-baseurl: "/philomaths_jekyll"
+baseurl: ""
+# baseurl: "/philomaths_jekyll"
 markdown: kramdown
 theme: minima
 plugins:
