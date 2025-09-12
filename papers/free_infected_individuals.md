@@ -1,14 +1,3 @@
----
-permalink: /papers/free_infected_individuals/
-redirect_to: https://github.com/philomaths-org/covid-19/raw/master/free_infected_individuals/free_infected_individuals.pdf
----
-
----
-permalink: /papers/free_infected_individuals/
-layout: default
-title: A Note on Estimating the Number of Free Infected Individuals
----
-
 <h1>A Note on Estimating the Number of Free Infected Individuals</h1>
 <table class="table table-hover">
 <thead>

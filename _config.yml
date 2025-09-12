@@ -9,7 +9,7 @@ plugins:
   - jekyll-redirect-from
 paper_links:
   calibration: https://github.com/philomaths-org/covid-19/raw/master/calibration/calibration.pdf
-  victoria: https://github.com/philomaths-org/covid-19/raw/master/calibration/victoria.pdf
+  victoria: https://github.com/philomaths-org/covid-19/raw/master/victoria/victoria.pdf
   adsense: https://github.com/philomaths-org/covid-19/raw/master/adsense/adsense.pdf
   social_distancing: https://github.com/philomaths-org/covid-19/raw/master/social_distancing/social_distancing.pdf
   conditional_immunity: https://github.com/philomaths-org/covid-19/raw/master/conditional_immunity/conditional_immunity.pdf
