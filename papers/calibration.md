@@ -1,10 +1,22 @@
 ---
 permalink: /papers/calibration/
 layout: default
-title: Calibration
+title: Calibration Paper
 ---
-<iframe src="https://raw.githubusercontent.com/philomaths-org/covid-19/master/calibration/calibration.pdf#view=FitH" style="width:100%;height:90vh" loading="lazy"></iframe>
-<p><a href="https://raw.githubusercontent.com/philomaths-org/covid-19/master/calibration/calibration.pdf">Download PDF</a></p>---
-permalink: /papers/calibration/
-redirect_to: https://raw.githubusercontent.com/philomaths-org/covid-19/master/calibration/calibration.pdf
----
+
+<h1>Calibration Paper</h1>
+<table class="table table-hover">
+<thead>
+<tr class="table-primary">
+<th>Title</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="pages_row">
+<td>Low-Complexity Methods for Magnetometer Calibration</td>
+<td><a class="btn btn-primary btn-sm" target="_blank" href="{{ site.paper_links.calibration }}">Download</a></td>
+</tr>
+</tbody>
+</table>
+<p>For other publications, please <a href="mailto:support@philomaths.org">email</a> us.</p>
